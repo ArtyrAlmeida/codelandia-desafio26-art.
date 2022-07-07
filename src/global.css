@@ -3,7 +3,7 @@
 /* RESET */
 html {
     font-size: 62.5%;
-    background-color: var(--background-color);
+    background-color: var(--white-bg);
 }
 
 * {
