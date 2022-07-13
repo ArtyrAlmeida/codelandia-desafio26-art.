@@ -17,14 +17,7 @@ h1 {
 }
 
 #header-container button {
-    background-color: var(--light-blue);
-    border: none;
-    border-radius: 4px;
     padding: .5rem 2.9rem;
-    color: var(--white-bg);
-    font-size: 1rem;
-    font-weight: 800;
-
 }
 
 #header-input {

@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
 
 /* RESET */
 html {
@@ -19,6 +20,16 @@ ul {
 
 a {
   text-decoration: none;
+}
+
+button {
+  font-family: "Nunito", "Inter", sans-serif;
+  background-color: var(--light-blue);
+  border: none;
+  border-radius: 4px;
+  color: var(--white-bg);
+  font-size: 1rem;
+  font-weight: 800;
 }
 
 :root {
