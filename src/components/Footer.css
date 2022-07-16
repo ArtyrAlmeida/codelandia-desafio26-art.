@@ -1,0 +1,23 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.6rem;
+    margin-top: 4em;
+    padding: 0 2.4em 4rem;
+    color: var(--title-color);
+}
+
+footer h2 {
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+
+footer nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+    font-size: 1.2rem;
+    font-weight: 500;
+}
