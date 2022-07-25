@@ -1,3 +1,21 @@
 main {
-    padding: 4.6em 2.4em 0em 2.4em;
+    padding: 4.6em 2.4em 0 2.4em;
+}
+
+@media screen and (min-width: 768px) {
+    main {
+        padding: 4.6em 5em 0 5em;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    main {
+        padding: 8.3em 10em 0 10em;
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    main {
+        padding: 8.3em 34.6em 0 34.6em;
+    }
 }
